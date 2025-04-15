@@ -1,1 +1,14 @@
-# SchemaLogicBuilder
+# SchemaLogicBuilder - Rule-Based Mock Data Generator
+
+SchemaLogicBuilder helps developers simulate smart test datasets by defining field logic and export targets.
+
+## Features
+- CSV / JSON / SQL support  
+- Rule-based schema fields  
+- CLI-first workflow  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_SchemaLogicBuilder.git
+cd 29_SchemaLogicBuilder
+python generate.py
