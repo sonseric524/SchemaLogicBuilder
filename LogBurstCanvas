@@ -1,0 +1,23 @@
+
+---
+
+### **3. 29_LogBurstCanvas**  
+**Description:**  
+Detects repetition storms, burst clusters, and error patterns across log files.
+
+#### **README.md**
+```markdown
+# LogBurstCanvas - Burst-Aware Log Pattern Analyzer
+
+LogBurstCanvas highlights when errors spike or patterns repeat abnormally within your log streams.
+
+## Features
+- Burst and frequency analysis  
+- Timestamp pattern mapping  
+- CLI with keyword filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_LogBurstCanvas.git
+cd 29_LogBurstCanvas
+python analyze.py logs/system.log
