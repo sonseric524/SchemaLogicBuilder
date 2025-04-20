@@ -1,0 +1,23 @@
+
+---
+
+### **4. 29_LiveChartGrid**  
+**Description:**  
+Visualizes live numeric input streams in a grid-style chart for multiple data points.
+
+#### **README.md**
+```markdown
+# LiveChartGrid - Realtime Data Stream Plotter
+
+LiveChartGrid allows multi-source numeric feeds to be displayed live in scrollable, dynamic charts.
+
+## Features
+- Realtime scrolling charts  
+- Adjustable refresh speed  
+- Matplotlib-based  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_LiveChartGrid.git
+cd 29_LiveChartGrid
+python visualize.py
